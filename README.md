@@ -6,6 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Backend
+Express is used along with MongoDB to serve the requests sent from Angular. Run 'npm run start:server' to start the server
+
+## MongoDB
+Connect the mongoDB server by running 'mongosh "mongodb+srv://cluster0.6zp39.mongodb.net/nodeDB" --apiVersion 1 --username akash
+' Password: chips
+
+New chips can be created by hitting create chips tab. They will be updated in the home page showing chips input.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
