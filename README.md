@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. Please run 'npm install' in order to download all the necessary node modules.
 
 ## Backend
 Express is used along with MongoDB to serve the requests sent from Angular. Run 'npm run start:server' to start the server
