@@ -1,0 +1,19 @@
+mat-card {
+  width: 50%;
+  margin: auto;
+}
+
+.example-chip-list {
+  width: 100%;
+}
+
+.email {
+  float: right;
+  color: grey;
+}
+
+
+img{
+  width: 40px;
+  clip-path: circle();
+}
